@@ -42,3 +42,21 @@ public class EJERCICIO_01 {
         return valor;
     }
 }
+
+
+// RESPUESTAS 
+
+// a) Los valores de entrada son las dimensiones del cilindro  (radio y altura) que el usuario ingresa por consola.)
+// y los de salida son el volumen y el área de la superficie del cilindro
+// las informaciones que deben mantenerse durante toda la ejecucion las dimensiones del cilindro
+// y la informcion que solo son temporales son los valores de entrada y salida que se muestran en la consola
+
+// b) Lo que ocurre si el usuario ingresa valores negativos es que el programa le pedirá nuevamente que ingrese un valor positivo
+// tambien garantizamos que el valor ingresado sea numerico con el metodo hasNextDouble()
+
+// c) se muestra en el programa
+
+// d) Implementar los cálculos de volumen y área como métodos en la clase Cilindro tiene ventajas como:
+// encapsulamiento, reutilización de código y mantenimiento más sencillo.
+
+
